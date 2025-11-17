@@ -1,6 +1,6 @@
 # Devlog
 
-## 2025-02-13 
+## 2025-11-16 
 
 setting up the project folder and initializing the git repository.
 
@@ -21,3 +21,16 @@ setting up the project folder and initializing the git repository.
 - Initialize Git repository
 - Create required files
 - Commit first entry
+
+## 2025-11-16  [Session 2 Start]
+Thoughts so far:
+- The basic teller–customer synchronization model is clear.
+- need for multiple semaphores: manager, safe, door, teller availability, and handshake semaphores.
+- implementing the full `bank.py`.
+
+Plan for this session:
+- Implement core teller/customer
+- Add semaphores 
+- Create shared variables
+- follow the provided sample format.
+- Run tests

@@ -34,3 +34,15 @@ Plan for this session:
 - Create shared variables
 - follow the provided sample format.
 - Run tests
+
+## 2025-02-13  [Session 3 End]
+Reflections:
+- Implemented core teller/customer
+- Added semaphores 
+- Created shared variables
+- followed the provided sample format.
+- Ran tests
+
+Next steps:
+- Polish formatting
+- Possibly run with different seeds
